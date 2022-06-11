@@ -15,7 +15,7 @@ const element3 = document.getElementsByTagName('h1')
 console.log(element3)
 
 /* querySelector()
- utilizado para pegar qualquer coisa, contudo ele pega a primeira vez em que essa coisa aparece.
+ utilizado para pegar qualquer coisa, contudo ele pega a primeira vez em que esse elemento aparece.
  Ex: querySelector('.one')  pegando o primeiro elemento com classe = one
 */
 const element4 = document.querySelector('h1')
